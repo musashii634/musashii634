@@ -28,7 +28,11 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>  
 
-### 実績。。。
+### 実績
+
+・図書館システムの開発、作成
+
+参考程度に↓
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musashii634)](https://github.com/anuraghazra/github-readme-stats)
 
