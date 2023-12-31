@@ -20,9 +20,10 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>  
 
-### 実績
+### やっていること
 
-・図書館システムを作成をしています
+・いろいろ
+・Atcoder、kaggle、Djangoなど
 
 参考程度に↓
 
