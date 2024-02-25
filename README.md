@@ -1,12 +1,5 @@
-## Musashiiについて
-
-
-### やっていること
-
-・いろいろ
+## musashiiについて
 ・Atcoder、kaggle、Djangoなど
-
-参考程度に↓
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=musashii634)](https://github.com/anuraghazra/github-readme-stats)
 
